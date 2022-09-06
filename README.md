@@ -11,7 +11,6 @@ In this work, we propose a robotic arm grasping approach based on deep learning 
 Clone this repository
 ```
 git clone https://github.com/shirohasuki/image-compression-transmission-grasp-detection.git
-cd grasp_multiObject_multiGrasp
 ```
 
 Image Compression Part: [README.md](https://github.com/shirohasuki/image-compression-transmission-grasp-detection/blob/815f3f40247e3a71e9c43142d6fa148d935b41cc/README.md)   
