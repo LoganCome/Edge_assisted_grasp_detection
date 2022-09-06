@@ -1,4 +1,4 @@
-# image-compression-transmission-grasp-detection
+# image-compression-for-grasp-detection
 A GAN-based image compression for grasp detection approach.
 
 
