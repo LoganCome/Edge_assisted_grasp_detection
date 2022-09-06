@@ -11,13 +11,9 @@
 
 
 ### Quick Start
-1. Clone this repository
-```
-git clone https://github.com/ivalab/grasp_multiObject_multiGrasp.git
-cd grasp_multiObject_multiGrasp
-```
 
-2. Build Cython modules
+
+1. Build Cython modules
 ```
 cd lib
 make clean
@@ -25,7 +21,7 @@ make
 cd ..
 ```
 
-3. Install [Python COCO API](https://github.com/cocodataset/cocoapi)
+2. Install [Python COCO API](https://github.com/cocodataset/cocoapi)
 ```
 cd data
 git clone https://github.com/pdollar/coco.git
@@ -34,13 +30,13 @@ make
 cd ../../..
 ```
 
-4. Put models under `output/res50/train/default/`
+3. Put models under `output/res50/train/default/`
 4. Run demo
 
 ```
 ./tools/demo_graspRGD.py --net res50 --dataset grasp
 ```
-6. Run with own images
+5. Run with own images
 
 If you want to run demo with your own images,  just put your image into `./data/demo/` and change file path in `./tools/demo_graspRGD.py`
 
