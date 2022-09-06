@@ -59,4 +59,4 @@ If you want to run demo with your own images,  just put your image into `./data/
 
 ### Thanks
 
-[GitHub - ivalab/grasp_multiObject_multiGrasp: An implementation of our RA-L work 'Real-world Multi-object, Multi-grasp Detection'](https://github.com/ivalab/grasp_multiObject_multiGrasp)
+[An implementation of our RA-L work 'Real-world Multi-object, Multi-grasp Detection'](https://github.com/ivalab/grasp_multiObject_multiGrasp)
