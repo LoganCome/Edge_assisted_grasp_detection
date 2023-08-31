@@ -1,4 +1,4 @@
-# image-compression-for-edge-assisted-grasp-detection
+# Image compression for edge-assisted grasping detection
 A GAN-based image compression for grasp detection approach.
 
 
